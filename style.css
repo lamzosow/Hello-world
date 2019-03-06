@@ -1,0 +1,24 @@
+.nav-link {
+     opacity:0.7;
+}
+
+.nav-link:hover {
+     opacity:  1;
+     background-color: #eee !important;
+}
+
+header {
+    /*Sizing of the element*/
+    height:  500px;
+    width: 100%;
+    /*Set and adjust background image*/
+    background-image: url("soccer.jpg");
+    background-size: cover;
+    
+    /*Center the text*/
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+header p {
+    /* Add the front-style property here*/
+}
