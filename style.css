@@ -20,5 +20,18 @@ header {
     font-family: 'Noto Serif', serif;
 }
 header p {
-    /* Add the front-style property here*/
+    font-style: italic;
 }
+.services i {
+    height: 80px;
+    width: 80px;
+    color: white;
+    background-color: red;
+    padding: 25px 20px;
+    font-size: 30px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+
+
