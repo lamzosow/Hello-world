@@ -14,6 +14,9 @@ header {
     /*Set and adjust background image*/
     background-image: url("soccer.jpg");
     background-size: cover;
+    color: orange;
+    
+    
     
     /*Center the text*/
     text-align: center;
@@ -33,5 +36,11 @@ header p {
     text-align: center;
 
 }
-
-
+.team h1 {
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    color: red;
+    font-family: monospac;
+    
+}
