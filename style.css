@@ -12,9 +12,9 @@ header {
     height:  500px;
     width: 100%;
     /*Set and adjust background image*/
-    background-image: url("soccer.jpg");
+    background-image: url("coding.jpg");
     background-size: cover;
-    color: orange;
+    color: white;
     
     
     
@@ -39,8 +39,45 @@ header p {
 .team h1 {
     text-align: center;
     font-weight: bold;
-    background-color: black;
+    background-color: yellow;
     color: red;
-    font-family: monospac;
+    font-family: monospace;
     
+
+}
+.team img {
+    height: 150px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%
+}
+.contact {
+    margin: 40px;
+}
+
+.contact h1 {
+    text-align: center;
+    font-weight: bold;
+    background-color: green;
+}
+
+.contact i {
+     padding: 10px;
+}
+
+.contact .input-group {
+     margin: 20px;
+}
+
+.contact .btn {
+    width: 100%;
+    font-size: 20px;
+    border-radius: 0;
+    background-color: red;
+    border: yellow;
+    
+}
+
+.contact .text-area {
+    height: 200px;
 }
