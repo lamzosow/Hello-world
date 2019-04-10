@@ -81,3 +81,21 @@ header p {
 .contact .text-area {
     height: 200px;
 }
+.social-media-btn {
+    background-color: green;
+    
+    
+}
+footer {
+    background-color: #222222;
+    height:200px;
+    width: 100%;
+    color:#fff;
+    padding-top: 25px;
+    
+}
+footer i{
+    color: #fff;
+    font-family: "Monserrat",sans-serif;
+    padding-top:15px;
+}
