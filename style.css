@@ -88,7 +88,7 @@ header p {
     height: 200px;
 }
 .social-media-btn {
-    background-color: green;
+    background-color: red;
     
     
 }
@@ -140,3 +140,12 @@ footer i{
      background-color: violet;
  }
  
+ 
+ .contact {
+     background-color: gray;
+}
+
+
+.section img {
+    border: 4px solid #89cff0;
+}
