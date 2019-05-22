@@ -18,7 +18,7 @@ header {
     height:  500px;
     width: 100%;
     /*Set and adjust background image*/
-    background-image: url("coding.jpg");
+    background-image: url("sow8.jpg");
     background-size: cover;
     color: white;
     
@@ -35,7 +35,7 @@ header p {
     height: 80px;
     width: 80px;
     color: white;
-    background-color: red;
+    background-color: brown;
     padding: 25px 20px;
     font-size: 30px;
     border-radius: 50%;
@@ -45,8 +45,8 @@ header p {
 .team h1 {
     text-align: center;
     font-weight: bold;
-    background-color: yellow;
-    color: red;
+    background-color: ;
+    color: black;
     font-family: monospace;
     
 
@@ -148,4 +148,8 @@ footer i{
 
 .section img {
     border: 4px solid #89cff0;
+}
+
+header a{
+    color: red;
 }
