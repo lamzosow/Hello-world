@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: green;
 }
 
 
@@ -18,9 +18,9 @@ header {
     height:  500px;
     width: 100%;
     /*Set and adjust background image*/
-    background-image: url("sow8.jpg");
+    background-image: url("ma2.jpg");
     background-size: cover;
-    color: white;
+    color: red;
     
     
     
@@ -115,12 +115,12 @@ footer i{
 
 
 
-.services h1:hover {
+.services h1 {
     background: #ddd;
     color: blue;
 }
 
-.services i:hover {
+.services i: {
     background: #ddd;
     color: blue;
 }
@@ -128,16 +128,16 @@ footer i{
 
 
 
-.team img:hover {
+.team img: {
     border: 4px solid #89cff0;
     color: red;
 }
 .team{
-    background-color: violet;
+    background-color: gray;
     
 }
  .services {
-     background-color: violet;
+     background-color: gray;
  }
  
  
@@ -150,6 +150,16 @@ footer i{
     border: 4px solid #89cff0;
 }
 
-header a{
-    color: red;
+
+
+
+
+
+
+header .btn a{
+   color: white;
+}
+
+.navbar-brand a{
+    text-align: center;
 }
